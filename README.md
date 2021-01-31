@@ -31,6 +31,7 @@
 <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="60" width="60" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code>
+<code><img height="60" width="60" src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png"></code>
 
 <br/>
 
