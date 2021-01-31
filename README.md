@@ -32,7 +32,7 @@
 <code><img height="60" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="60" width="60" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4"></code>
 <code><img height="60" width="60" src="https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png"></code>
-<code><img height="60" width="60" src="https://1.bp.blogspot.com/-bik6AotfT0M/X4R87hMVaqI/AAAAAAAAPws/JmmIww-SNscuR1MeW4_4wlrRT1SGXbNyQCLcBGAsYHQ/s0/AndroidStudio_logo.png"></code>
+<code><img height="60" width="60" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 
 <br/>
 
