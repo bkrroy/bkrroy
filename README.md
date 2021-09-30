@@ -2,12 +2,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%; "></a>
 <br/>
 
-- 🔭 I’m currently working on **Python and Data Science**
-- 🌱 I’m currently learning **Deeplearning and App Development**
+- 🔭 I’m currently working on **Flutter, Python and Data Science**
+- 🌱 I’m currently learning **Deeplearning**
 - 👯 I’m looking to collaborate on **Python or Data Science**
-- 🤔 I’m looking for help with **Internships**
 - 💬 Ask me about Anything
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Best Part Of the Journey is *Experiencing new stuffs*.**
 
 <br/>
