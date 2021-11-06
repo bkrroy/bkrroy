@@ -3,7 +3,7 @@
 <br/>
 
 - 🔭 I’m currently working on **Flutter, Python and Data Science**
-- 🌱 I’m currently learning **Deeplearning**
+- 🌱 I’m currently learning **Unity**
 - 👯 I’m looking to collaborate on **Python or Data Science**
 - 💬 Ask me about Anything
 - ⚡ Fun fact: **Best Part Of the Journey is *Experiencing new stuffs*.**
