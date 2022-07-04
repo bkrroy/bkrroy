@@ -1,5 +1,5 @@
 # Hi there 👋
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/bkrroy/bkrroy/blob/main/56922-code-typing-concept.gif"><img align="right" height="250" width="400" alt="GIF" src="https://github.com/bkrroy/bkrroy/blob/main/56922-code-typing-concept.gif" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%; "></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/bkrroy/bkrroy/blob/main/56922-code-typing-concept.gif"><img align="right" height="550" width="450" alt="GIF" src="https://github.com/bkrroy/bkrroy/blob/main/56922-code-typing-concept.gif" data-canonical-src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width:100%; "></a>
 <br/>
 
 - 🔭 I’m currently working on **Flutter, Python and Data Science**
