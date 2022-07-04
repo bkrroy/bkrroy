@@ -46,7 +46,7 @@
 </a>
 
 <p align="center">
-<a href="https://twitter.com/bkroy07" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69061-twitter-subtle.gif" alt="bkroy07" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/brajesh-kumar-roy-925b2119b/" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69066-linkedin-subtle.gif" alt="BrajeshKumarRoy" height="30" width="30" /></a>
-<a href="https://www.instagram.com/bkrroy/" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69057-instagram.gif" alt="BrajeshKumarRoy" height="30" width="30" /></a>
+<a href="https://twitter.com/bkroy07" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69061-twitter-subtle.gif" alt="bkroy07" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/brajesh-kumar-roy-925b2119b/" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69066-linkedin-subtle.gif" alt="BrajeshKumarRoy" height="50" width="50" /></a>
+<a href="https://www.instagram.com/bkrroy/" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69057-instagram.gif" alt="BrajeshKumarRoy" height="50" width="50" /></a>
 </p>
