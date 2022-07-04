@@ -46,7 +46,7 @@
 </a>
 
 <p align="center">
-<a href="https://twitter.com/bkroy07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bkroy07" height="30" width="30" /></a>
+<a href="https://twitter.com/bkroy07" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69061-twitter-subtle.gif" alt="bkroy07" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/brajesh-kumar-roy-925b2119b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="BrajeshKumarRoy" height="30" width="30" /></a>
 <a href="https://www.instagram.com/bkrroy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ce43d3ebeab3b20dae0af98d81bc83e03efad299/icons/instagram.svg" alt="BrajeshKumarRoy" height="30" width="30" /></a>
 </p>
