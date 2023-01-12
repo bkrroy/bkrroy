@@ -33,7 +33,7 @@
 
 <br/>
 
-**GITHUB STATS:**  
+<!-- **GITHUB STATS:**  
 <br/>
 <br/>
 <a href="https://github.com/bkrroy">
@@ -41,7 +41,7 @@
 </a>
 <a href="https://github.com/bkrroy">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkrroy&theme=dark&hide_langs_below=0" />
-</a>
+</a> -->
 
 <p align="center">
 <a href="https://twitter.com/bkroy07" target="blank"><img align="center" src="https://github.com/bkrroy/bkrroy/blob/main/69061-twitter-subtle.gif" alt="bkroy07" height="50" width="50" /></a>
